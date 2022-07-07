@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+  }
+  
+.inputForm{
+
+    margin : 3% auto;
+    width: 60%
+}
+
+button{
+    margin : 0 10%;
+    margin-left: 200px;
+}
+
+.container{
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    flex: auto;
+    margin:0 2%;
+    max-width: 30%;
+    justify-content: baseline;
+}
+
+.card{
+    margin-top :2%
+}
